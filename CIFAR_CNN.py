@@ -7,7 +7,6 @@
 import os
 import pickle
 import numpy as np
-import matplotlib.pyplot as plt
 import tensorflow as tf
 CIFAR_DIR='cifar-10-batches-py'
 get_ipython().magic('matplotlib inline')
